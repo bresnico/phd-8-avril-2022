@@ -1,0 +1,459 @@
+---
+title: "Inclusion scolaire et climat de classe"
+subtitle: "Le rôle possible du développement des ressources personnelles des élèves"  
+author: "Nicolas Bressoud"
+date: "8 avril 2022"
+team: "chEERS lab - UNIFR"
+photo_creds: "[Med Badr Chemmaoui](hhttps://unsplash.com/photos/ZSPBhokqDMc)" 
+url_unsplash: "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+background_position: "1050px 20px"
+background_size: "100px"
+output:
+  xaringan::moon_reader:
+    self_contained: false
+    css: ["default", "xaringan-themer.css"]
+    seal: false
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  fig.show = TRUE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#D2202B",
+  secondary_color = "#D2202B",
+  inverse_header_color = "#FFFFFF",
+  link_color = "#676C72",
+    header_font_google = google_font("Josefin Sans")
+
+)
+```
+
+class: title-slide, inverse, bottom
+background-image: url(`r rmarkdown::metadata$url_unsplash`)
+background-size: cover
+
+# `r rmarkdown::metadata$title`
+
+## `r rmarkdown::metadata$subtitle`
+
+### `r rmarkdown::metadata$author` - `r rmarkdown::metadata$team`
+
+### `r rmarkdown::metadata$date`
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://bresnico.github.io/phd-8-avril-2022/#1">Les slides de présentation</a> par <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://nicolasbressoud.ch">Nicolas Bressoud</a> sont soumises à une licence <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+
+---
+class: left middle
+
+### Titre
+Approche pédagogique basée sur les **forces personnelles** des élèves et développement du **climat de classe** : perspectives en contexte d'**inclusion scolaire**
+
+### Mots-clés
+Forces de caractère (ressources, forces personnelles), Climat de classe, Inclusion scolaire
+
+<!-- comment
+strength Use sera IV et DV selon ce que je mesure.
+
+Andrea : need of affiliation peut être sentiment de connexion ? subscales ? confiance ? 
+
+T0 avant 
+
+T1 après. 
+
+How training DV impact Strength Use IV ?
+
+Waiting list T0 T1 T2
+
+**—> lire des articles sur comment mesurer les sociogrammes.**
+
+La PANAS est pas la meilleure. 
+
+Randomiser l’attribution des profs dans un groupe ou l’autre.
+
+Intervertir les deux questions : **Two main questions**
+
+- je fais d’abord le corrélationnel.
+- puis ensuite je regarde si SU est amélioré.
+
+J’ai le droit de faire des analyses exploratoires si j’ai pas un monstre theoretical background.
+
+Alex : il faut absolument que j’intègre les questionnaires aux profs, dans le sens d’un POC. Comprendre comment ça a été délivré, comment ça a été apprécié. Demander aux profs d’évaluer “s’ils trouvent qu’ils ont bien implémenté” etc.
+
+Alex : il faut mesurer des variables de contrôle. Et au moins avoir une idée de la *santé* de la classe. Histoire de comprendre ce qui peut se passer.
+
+Giona : J’ai encore trop de DV !! Attention !! Sinon je sais pas où je vais aller. Je dois vraiment aller sur la DV la plus importante, sensée, fondée.
+-->
+
+
+### Structure
+
+1. Contexte
+1. Question de recherche et hypothèses
+1. Méthode
+1. Résultats possibles attendus
+1. Divers
+1. Prochaines étapes
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2948&q=80")
+background-size: cover
+
+# Contexte
+
+---
+class: left middle
+
+# Contexte
+
+--
+
+### Terrain scolaire romand
+
+- Enseignement en classes hétérogènes
+- Développement des mesures renforcées de l'enseignement spécialisé
+
+--
+
+### Thème prometteur
+
+- Forces de caractère (Peterson & Seligman, 2004)
+- Utilisation des forces (identifier, utiliser, promouvoir) (Linkins et al., 2015)
+
+--
+
+### Impact relevé / potentiel
+
+- Bénéfices pour les relations dans la classe (Quinlan et al., 2014)
+- Impact sur les affects positifs, le bien-être, la satisfaction de vie [(Schutte & Malouff, 2018)](https://link.springer.com/article/10.1007/s10902-018-9990-2)
+
+--
+
+- **Impact potentiel en contexte inclusif sur les émotions positives, le besoin d'affiliation, le comportement prosocial,...)**
+
+---
+class: middle, center
+
+```{r out.width = '60%', echo=FALSE}
+# local
+knitr::include_graphics("img/bressoud_gay_2022.jpg")
+```
+
+<!-- Comment je définis le climat de classe ??? -->
+<!-- Comment je définis l'inclusion ??? -->
+
+---
+class: left
+
+# Contexte
+
+### Champ de la pédagogie spécialisée
+
+--
+
+- Inclusion : definition
+
+- Classroom climate : definition, caracteristics
+
+- Cohesion, peer relationships, peer influence 
+
+--
+
+### Link with character strengths
+
+- lack of research ()
+
+- potential : ...
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1581574919402-5b7d733224d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
+background-size: cover
+
+# Goal and Hypothesis
+
+---
+class: left middle
+
+# Goal and Hypothesis
+
+--
+
+### Two main questions
+
+- How can we support strengths knowledge and use?
+
+- Does it have an impact on the classroom climate?
+
+--
+
+### Hypothesis
+
+- The use of strengths at school can be improved with a program of 10 30-minute sessions. 
+
+- Strengths use predicts class cohesion (**positive emotions**, **need of affiliation**, **prosocial behavior**, **peer influence**).
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
+background-size: cover
+
+# Method
+
+---
+class: left middle
+
+# Method
+
+--
+
+- Type of research
+- Participants
+- Material
+- Procedure
+
+---
+class: left middle
+
+# Method - Type of research
+
+--
+
+Quasi-experimental design:
+
+--
+
+- Repeated measures (before, after)
+
+- Between and within subjects
+
+- No random assignation
+
+---
+class: left middle
+
+# Method - Participants
+
+--
+
+- Population: Pupils
+
+- Age: 8 to 10 years old
+
+- Type of schooling: mainly ordinary setting (integrative setting not mandatory)
+
+- N: 120 to 160, 8 classes (4 in each condition group)
+
+
+---
+class: left middle
+
+# Method - Material
+
+--
+
+### IV - Strengths use (better than strengths knowledge)
+
+- Measured with the Strength Use Scale (Govindji & Linley, 2007)
+
+- Has to be adapted (and validated) in french, for children
+
+- 14 items, self reported
+
+--
+
+### DV - Positive emotions, need of affiliation, prosocial behavior
+
+- Positive emotions: PANAS, [SPANE french](http://labs.psychology.illinois.edu/~ediener/Documents/SPANE_French.pdf)
+
+- Need of affiliation: ...
+
+- Prosocial Behavior: ... 
+
+- Peer influence [(Nenniger & Müller, 2020)](https://doi.org/10.1080/08856257.2020.1783799) : ... 
+
+- *Completed with a sociogramm (qualitative observation of relational dynamics)*
+
+---
+class: left middle
+
+# Method - Procedure
+
+--
+
+### Ethics
+
+- with UniDistance
+
+- Anonymization, Data storage, Consent, Approvals,...
+
+--
+
+### Design
+
+- Experimental group:
+
+    - Use of the strengths material by the teacher (10 x 30 min)
+    - 2 sessions per week over 5 weeks
+    - Coaching by the experimenter (1 time before and 2 times during the procedure)
+
+- Measures before and after intervention in both experimental and control groups
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1520004434532-668416a08753?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
+background-size: cover
+
+# Results - Previsional
+
+---
+class: left middle
+
+# Results - Previsional
+
+--
+
+Standard paired t-test might indicate:
+
+- Progression of the experimental group in strengths use
+
+--
+
+Multilevel analysis might indicate:
+
+- Effect of interaction time-group on DV
+    
+    - Positive emotions
+    - Need of Affiliation
+    - Prosocial behavior
+    - Peer influence
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1623503664086-475867ec20b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3173&q=80")
+background-size: cover
+
+# Miscellaneous
+
+---
+class: left middle
+
+# Miscellaneous
+
+--
+
+- Funding: none
+
+- Collaborations:
+
+    - HEP Valais
+    - UniDistance
+    - UNIFR
+    - HEP Vaud
+    - Université Lyon Lumière
+    
+- Conflicts of interest: none
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1518623001395-125242310d0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2880&q=80")
+background-size: cover
+
+# Timeline and next steps
+
+---
+class: left middle
+
+# Timeline and next steps
+
+--
+
+### January-February: ethical approval
+### March-June: Data collect
+
+- week 1: T1
+- week 2 to 7: Intervention
+- week 8: T2
+
+*September-December might be a plan B.*
+
+---
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1633613286848-e6f43bbafb8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80")
+background-size: cover
+
+# Open questions
+
+---
+class: left middle
+
+# Open questions
+
+--
+
+- which theory in the background?
+
+    - SDT might be the best to support the experiment
+
+- which DV taking in count scales accuracy?
+
+    - Peer influence seems to be an interesting DV but who do I measure that?
+
+- Could teacher recruitment be biased?
+
+    - Yeah...but you konw... forget about blind experiment for this one.
+
+---
+
+class: middle
+
+.left[
+
+
+## &#x1F64F; Thank you!
+
+]
+
+--
+
+.right[
+
+
+Photo credits in order of appearance:
+
+[Med Badr Chemmaoui](hhttps://unsplash.com/photos/ZSPBhokqDMc)
+
+[David Marcu](https://unsplash.com/photos/78A265wPiO4)
+
+[Engin Akyurt](https://unsplash.com/photos/bPiuY2ZSlvU)
+
+[Shahadat Rahman](https://unsplash.com/photos/BfrQnKBulYQ)
+
+[Kelly Sikkema](https://unsplash.com/photos/4JxV3Gs42Ks)
+
+[Mats Hagwall](https://unsplash.com/photos/uzl47XdoLww)
+
+[Vidar Nordli-Mathisen](https://unsplash.com/photos/Kuu5mmxkwW4)
+
+[Towfiqu barbhuiya](https://unsplash.com/photos/oZuBNC-6E2s)
+
+]
