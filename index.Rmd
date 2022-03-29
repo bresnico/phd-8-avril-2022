@@ -67,8 +67,12 @@ class: left middle
 ### Titre
 Approche pédagogique basée sur les **forces personnelles** des élèves et développement du **climat de classe** : perspectives en contexte d'**inclusion scolaire**
 
+--
+
 ### Mots-clés
 Forces de caractère (ressources, forces personnelles), Climat de classe, Inclusion scolaire
+
+--
 
 <!-- comment
 strength Use sera IV et DV selon ce que je mesure.
@@ -136,14 +140,14 @@ class: left middle
 
 ### Thème prometteur
 
-- Forces de caractère (Peterson & Seligman, 2004)
-- Utilisation des forces (identifier, utiliser, promouvoir) (Linkins et al., 2015)
+- Forces de caractère [(Peterson & Seligman, 2004)](https://psycnet.apa.org/record/2004-13277-000)
+- Utilisation des forces (identifier, utiliser, promouvoir) [(Linkins et al., 2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581)
 
 --
 
 ### Impact relevé / potentiel
 
-- Bénéfices pour les relations dans la classe (Quinlan et al., 2014)
+- Bénéfices pour les relations dans la classe [(Quinlan et al., 2014)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.920407)
 - Impact sur les affects positifs, le bien-être, la satisfaction de vie [(Schutte & Malouff, 2018)](https://link.springer.com/article/10.1007/s10902-018-9990-2)
 
 --
@@ -153,10 +157,12 @@ class: left middle
 ---
 class: middle, center
 
-```{r out.width = '60%', echo=FALSE}
+```{r out.width = '50%', echo=FALSE}
 # local
 knitr::include_graphics("img/bressoud_gay_2022.jpg")
 ```
+
+[(Bressoud & Gay, 2022)](https://szh-shop.faros.ch/cms/Artikel-Detail/67565?itemID=REV2022_03)
 
 <!-- Comment je définis le climat de classe ??? -->
 <!-- Comment je définis l'inclusion ??? -->
@@ -172,7 +178,7 @@ class: left
 
 - Inclusion : definition
 
-- Classroom climate : definition, caracteristics
+- Climat de classe : definition, caracteristics
 
 - Cohesion, peer relationships, peer influence 
 
