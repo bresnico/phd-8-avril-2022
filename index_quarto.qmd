@@ -1,0 +1,316 @@
+---
+title: "PhD Meeting"
+author: "Nicolas Bressoud"
+format:
+  revealjs:
+    theme: night
+    logo: img/hep.png
+    transition: slide
+    background-transition: fade
+    incremental: true
+    slide-number: c/t
+    show-slide-number: all
+
+---
+
+
+## Inclusion scolaire et climat de classe {visibility="uncounted" background-image="https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-opacity="0.5"}
+
+### Le rôle possible du développement des ressources personnelles des élèves
+
+Nicolas Bressoud - chEERS lab - 8 avril 2022
+
+<small>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://bresnico.github.io/phd-8-avril-2022/#1">Les slides de présentation</a> par <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://nicolasbressoud.ch">Nicolas Bressoud</a> sont soumises à une licence <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+</small>
+
+
+---
+
+## {background-image="https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-opacity="0.5" transition="fade"}
+### Titre 
+Approche pédagogique basée sur les **forces personnelles** des élèves et développement du **climat de classe** : perspectives en contexte d'**inclusion scolaire**
+
+### Mots-clés
+Forces de caractère (ressources, forces personnelles), Climat de classe, Inclusion scolaire
+
+---
+
+## Structure {background-image="https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-opacity="0.5" transition="fade"}
+
+1. Contexte
+1. Question de recherche et hypothèses
+1. Méthode
+1. Résultats envisagés
+1. Divers
+1. Prochaines étapes
+
+---
+
+## Contexte {background-image="https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2948&q=80"}
+
+
+## {background-image="https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2948&q=80" background-opacity="0.5" transition="fade"}
+::: {.panel-tabset}
+
+### Terrain scolaire romand
+
+::: {.nonincremental}
+- Enseignement en classes hétérogènes
+- Développement des mesures renforcées de l'enseignement spécialisé
+:::
+
+### Thème prometteur
+
+::: {.nonincremental}
+- Forces de caractère [(Peterson & Seligman, 2004)](https://psycnet.apa.org/record/2004-13277-000)
+- Utilisation des forces (identifier, utiliser, promouvoir) [(Linkins et al., 2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581)
+:::
+
+### Impact relevé / potentiel
+
+::: {.nonincremental}
+- Bénéfices pour les relations dans la classe [(Quinlan et al., 2014)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.920407)
+- Impact sur les affects positifs, le bien-être, la satisfaction de vie [(Schutte & Malouff, 2018)](https://link.springer.com/article/10.1007/s10902-018-9990-2)
+- **Impact potentiel en contexte inclusif sur la qualité de vie, le besoin d'affiliation, le comportement prosocial,...)**
+:::
+
+:::
+
+---
+
+## Prise de recul sur le fonctionnement possible {background-image="https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2948&q=80" background-opacity="0.3" transition="fade"}
+
+```{r out.width = '50%', echo=FALSE}
+# local
+knitr::include_graphics("img/bressoud_gay_2022.jpg")
+```
+
+<small>[(Bressoud & Gay, 2022)](https://szh-shop.faros.ch/cms/Artikel-Detail/67565?itemID=REV2022_03)</small>
+   
+---
+
+## {background-image="https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2948&q=80" background-opacity="0.3" transition="fade"}
+
+::: {.panel-tabset}
+
+### Champ de la pédagogie spécialisée
+
+::: {.nonincremental}
+- Inclusion scolaire [(Prud'Homme, et al., 2016)](https://www.deboecksuperieur.com/ouvrage/9782807302747-l-inclusion-scolaire)
+- Climat de classe [(Bennacer, 2005)](https://journals.openedition.org/osp/409)
+ <!-- le climat d’une organisation est la perception globale qu’ont ses membres d’une série de caractéristiques générales, relativement stables, des interactions sociales qui se produisent dans cette organisation ». -->
+- Indicateurs éventuels du climat de classe (perception des interactions sociales) : 
+   - Bonheur subjectif [(Kotsou & Leys, 2017)](https://psycnet.apa.org/record/2017-00704-001)
+   - Qualité des relations entre pairs [influence des pairs chez Müller, Cillessen, & Hoffmann (2021)](https://reader.elsevier.com/reader/sd/pii/S0193397321000903?token=14A2F7BFD66D78954F9E18CE5AB098676D804D570A035A967811D7CB08195228088FE02FD0681814D5CB115F8F268517&originRegion=eu-west-1&originCreation=20220402092604)
+   - Orientation reconnaissante [(Shankland, 2019)](https://www.cairn.info/la-psychologie-positive--9782100793235-page-157.htm)
+:::
+
+
+### Lien avec les forces de caractère
+
+::: {.nonincremental}
+- Développement récent dans le handicap [(Niemiec, Shogren, & Wehmeyer, 2017)](https://eric.ed.gov/?id=EJ1129568)
+- Perspectives futures dessinées en inclusion scolaire [(Wehmeyer & Kurth, 2021)](https://wwnorton.com/books/9781324015994)
+:::
+::: 
+---
+
+## Question de recherche et hypothèses {background-image=https://images.unsplash.com/photo-1581574919402-5b7d733224d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80 background-opacity="0.8"}
+
+---
+
+## {background-image=https://images.unsplash.com/photo-1581574919402-5b7d733224d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80 background-opacity="0.3" transition="fade"}
+
+:::: {.columns}
+::: {.column width="40%"}
+### Deux sous-questions
+
+- Peut-on enseigner l'utilisation des forces en classe ?
+
+- Quel impact a l'utilisation des forces sur le climat de classe ?
+:::
+::: {.column width="60%"}
+### Hypothèses
+
+- L'utilisation des forces à l'école peut être développée avec un programme pédagogique de 10 séances de 30 min. 
+
+- L'utilisation des forces prédit :
+<small>
+
+    - l'orientation reconnaissante
+    - le bonheur subjectif
+    - la qualité des relations entre pairs
+    - ...en tant qu'indicateurs du climat de classe
+
+:::
+</small>
+
+::::
+
+---
+
+## Méthode {background-image="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"}
+
+
+## {background-image="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" background-opacity="0.5" transition="fade"}
+
+::: {.panel-tabset}
+
+### Type de recherche
+
+Design quasi-expérimental :
+
+::: {.nonincremental}
+- Mesures répétées avant/après intervention (within subjects)
+- Comparaison groupe contrôle / expérimental (between subjects)
+- Tirage au sort des classes
+:::
+
+### Participants
+
+
+::: {.nonincremental}
+- Population: élèves
+- Age: 8 à 12 ans
+- Type de scolarisation : principalement en scolarisation ordinaire
+- N: 120 à 160 participant·es, 8 classes (4 dans chaque groupe)
+:::
+
+### Matériel
+
+::: {.nonincremental}
+- Utilisation du matériel pédagogique par les enseignant·es (10 x 30 min)
+- 2 sessions par semaine sur 5 semaines
+- Coaching par l'expérimentateur (1 fois avant et 2 fois pendant la procédure)
+- Mesures avant et après intervention dans les groupes contrôle et expérimental
+:::
+
+### Aspects éthiques
+
+::: {.nonincremental}
+- Approbation par une commission d'éthique
+- Anonymisation
+- Approbation par le SE de l'Etat du Valais
+:::
+
+### Design
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Partie 1
+
+::: {.nonincremental}
+- Variable dépendante : Strengths use scale [(Govindji & Linley, 2007)](https://psycnet.apa.org/record/2007-19806-004)
+- Variables indépendantes : Temps, Groupe
+:::
+:::
+
+::: {.column width="50%"}
+Partie 2
+
+::: {.nonincremental}
+- Variables dépendantes: Orientation reconnaissante, Bonheur subjectif, Qualité des relations entre pairs
+    
+- Variable indépendante : Strengths use scale [(Govindji & Linley, 2007)](https://psycnet.apa.org/record/2007-19806-004)
+:::
+:::
+::::
+:::
+
+---
+
+## Résultats attendus {background-image="https://images.unsplash.com/photo-1520004434532-668416a08753?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"}
+
+---
+
+## {background-image="https://images.unsplash.com/photo-1520004434532-668416a08753?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" background-opacity="0.5" transition="fade"}
+
+Une analyse multiniveaux pourrait indiquer une **progression de l'utilisation des forces dans le groupe expérimental sur le temps comparativement au groupe contrôle**
+
+. . . 
+
+Une analyse corrélationnelle pourrait indiquer une **prédiction de l'orientation reconnaissante, du bonheur subjectif, de la qualité des relations entre pairs par l'utilisation des forces**.
+
+---
+
+## Divers {background-image="https://images.unsplash.com/photo-1623503664086-475867ec20b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3173&q=80" background-opacity="0.8"}
+
+---
+
+## {background-image="https://images.unsplash.com/photo-1623503664086-475867ec20b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3173&q=80" background-opacity="0.5" transition="fade"}
+
+Collaborations:
+
+- HEP Valais
+- UniDistance
+- UNIFR
+- HEP Vaud
+- Université Lyon Lumière
+    
+Conflits d'intérêt : aucun
+
+---
+
+## Prochaines étapes {background-image="https://images.unsplash.com/photo-1518623001395-125242310d0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2880&q=80"}
+
+---
+
+## {background-image="https://images.unsplash.com/photo-1518623001395-125242310d0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2880&q=80" background-opacity="0.5" transition="fade"}
+
+Avril-mai : accord éthique
+
+. . . 
+
+Août-novembre : Récolte des données
+
+- Semaine 1: T0
+- Semaines 2 à 7: Intervention
+- Semaine 8: T1
+
+---
+
+## Questions ouvertes {background-image="https://images.unsplash.com/photo-1633613286848-e6f43bbafb8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" background-opacity="0.8"}
+
+---
+
+## {background-image="https://images.unsplash.com/photo-1633613286848-e6f43bbafb8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" background-opacity="0.5" transition="fade"}
+
+Est-ce que la théorie de l'autodétermination consolide le projet ?
+
+. . . 
+
+Comment obtenir des mesures valides ?
+
+---
+
+
+## &#x1F64F; Merci !
+
+. . . 
+
+<small>
+Crédits Photo par ordre d'apparition :
+
+[Med Badr Chemmaoui](hhttps://unsplash.com/photos/ZSPBhokqDMc)
+
+[David Marcu](https://unsplash.com/photos/78A265wPiO4)
+
+[Engin Akyurt](https://unsplash.com/photos/bPiuY2ZSlvU)
+
+[Shahadat Rahman](https://unsplash.com/photos/BfrQnKBulYQ)
+
+[Kelly Sikkema](https://unsplash.com/photos/4JxV3Gs42Ks)
+
+[Mats Hagwall](https://unsplash.com/photos/uzl47XdoLww)
+
+[Vidar Nordli-Mathisen](https://unsplash.com/photos/Kuu5mmxkwW4)
+
+[Towfiqu barbhuiya](https://unsplash.com/photos/oZuBNC-6E2s)
+</small>
+
+
+
+
