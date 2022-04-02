@@ -205,8 +205,8 @@ class: left middle
 
 - Type de recherche
 - Participants
-- Matérial
-- Procédure
+- Design
+- Matérial et éthique
 
 ---
 class: left middle
@@ -243,21 +243,16 @@ class: left middle
 ---
 class: left middle
 
-# Méthod - Matériel
+# Méthode - Design
 
 --
+.pull-left[
 
 ## Partie A
-
-.pull-left[
 
 ### Variable dépendante
 
 - Strengths use scale [(Govindji & Linley, 2007)](https://psycnet.apa.org/record/2007-19806-004)
-
-]
-
-.pull-right[
 
 ### Variables indépendantes
 
@@ -268,19 +263,15 @@ class: left middle
 
 --
 
-## Partie B
-
 .pull-left[
+
+## Partie B
 
 ### Variables dépendantes
 
 - Orientation reconnaissante
 - Bonheur subjectif
 - Qualité des relations entre pairs
-
-]
-
-.pull-right[
 
 ### Variable indépendante 
 
@@ -291,19 +282,11 @@ class: left middle
 ---
 class: left middle
 
-# Méthode - Procédures
+# Méthode - Matériel et éthique
 
 --
 
-### Aspects éthiques
-
-- Approbation par une commission d'éthique
-- Anonymisation
-- Approbation par le SE de l'Etat du Valais
-
---
-
-### Design
+### Matériel
 
 - Groupe expérimental :
 
@@ -312,6 +295,14 @@ class: left middle
     - Coaching par l'expérimentateur (1 fois avant et 2 fois pendant la procédure)
 
 - Mesures avant et après intervention dans les groupes contrôle et expérimental
+
+--
+
+### Aspects éthiques
+
+- Approbation par une commission d'éthique
+- Anonymisation
+- Approbation par le SE de l'Etat du Valais
 
 ---
 class: title-slide, inverse, middle
