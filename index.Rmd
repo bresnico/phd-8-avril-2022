@@ -38,8 +38,8 @@ knitr::opts_chunk$set(
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_duo_accent(
-  primary_color = "#D2202B",
-  secondary_color = "#D2202B",
+  primary_color = "#006DB8",
+  secondary_color = "#006DB8",
   inverse_header_color = "#FFFFFF",
   link_color = "#676C72",
     header_font_google = google_font("Josefin Sans")
