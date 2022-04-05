@@ -86,7 +86,7 @@ Forces de caractère (ressources, forces personnelles), Climat de classe, Inclus
 
 **Co-directrice :** Pr. Dr. Rebecca Shankland, université Lyon Lumière 2
 
-**Co-directeur :** Dr. Philippe Gay, HEP Vaud
+**Co-directeur :** Pr. Dr. Philippe Gay, HEP Vaud
 
 
 ---
@@ -170,7 +170,7 @@ class: left
 - Indicateurs éventuels du climat de classe (perception des interactions sociales) : 
 
    - Echelle de bonheur subjectif [(Kotsou & Leys, 2017)](https://psycnet.apa.org/record/2017-00704-001)
-   - Qualité des relations entre pairs (conceptogramme) [Voir la notion d'influence des pairs chez Müller, Cillessen, & Hoffmann (2021)](https://reader.elsevier.com/reader/sd/pii/S0193397321000903?token=14A2F7BFD66D78954F9E18CE5AB098676D804D570A035A967811D7CB08195228088FE02FD0681814D5CB115F8F268517&originRegion=eu-west-1&originCreation=20220402092604)
+   - Qualité des relations entre pairs (conceptogramme) [Voir la notion d'influence des pairs chez Müller, Cillessen, et Hoffmann (2021)](https://reader.elsevier.com/reader/sd/pii/S0193397321000903?token=14A2F7BFD66D78954F9E18CE5AB098676D804D570A035A967811D7CB08195228088FE02FD0681814D5CB115F8F268517&originRegion=eu-west-1&originCreation=20220402092604)
    - Echelle d'orientation reconnaissante [(Shankland, 2019)](https://www.cairn.info/la-psychologie-positive--9782100793235-page-157.htm)
   
 
@@ -553,11 +553,11 @@ class: left
 
 # Résultats - Attendus
 
-Une analyse multiniveaux pourrait indiquer
+Une analyse multiniveaux pourrait indiquer :
 
-- une progression de l'utilisation des forces dans le groupe expérimental sur le temps comparativement au groupe contrôle
+- une progression de l'utilisation des forces dans le groupe expérimental sur le temps comparativement au groupe contrôle.
 
-Une analyse corrélationnelle pourrait indiquer
+Une analyse corrélationnelle pourrait indiquer :
 
 - une prédiction de l'orientation reconnaissante, du bonheur subjectif, de la qualité des relations entre pairs par l'utilisation des forces.
 
@@ -599,9 +599,9 @@ class: left
 ### avril-mai : accord éthique
 ### août-novembre : Récolte des données
 
-- Semaine 1: T0
+- Semaine 1: t0
 - Semaines 2 à 7: Intervention
-- Semaine 8: T1
+- Semaine 8: t1
 
 ---
 class: title-slide, inverse
@@ -615,10 +615,13 @@ class: left
 
 # Questions ouvertes
 
+- Est-ce que la théorie de l'autodétermination consolide à satisfaction le projet ?
 
-- Est-ce que la théorie de l'autodétermination consolide le projet ?
+- Quelles théories adjacentes peuvent permettre de comprendre les enjeux ?
 
-- Comment obtenir des mesures valides ?
+- Quelles autres mesures validées et normées peuvent être prises en compte ?
+
+- Quelles pistes dans l'implémentation pédagogique peuvent être explorées ?
 
 ---
 
