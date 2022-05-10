@@ -19,6 +19,8 @@ output:
       highlightLines: true
       ratio: 16:9
       countIncrementalSlides: false
+      navigation:
+        scroll: false # pour zoomer avec la souris
 ---
 
 ```{r setup, include=FALSE}
